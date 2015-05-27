@@ -1,7 +1,7 @@
 # fast_pdf
 A matlab code for fast calculation of pdf. Please cite the following papers if you use these codes in your research. 
-A fast algorithm is used in this code to calculate the probability density function without box-counting. 
-Note that this code only works for 1D data, or in other words, it does not work for the joint pdf.
+A fast algorithm is used in this code to calculate the probability density function without box-counting with the uniform bins. 
+
 
 
 @Article{Huang2011PoF,
